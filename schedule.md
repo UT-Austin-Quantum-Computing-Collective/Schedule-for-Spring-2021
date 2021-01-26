@@ -50,6 +50,9 @@ Note: times are in CST
     - 5:00pm: Beginner Lab 2
     - 6:00pm: Intermediate Lab 1 (Theory)
 
+- Wednesday:
+    - 6:30pm: Paper Discussion
+
 
 ### Week of February 22nd
 
@@ -74,9 +77,8 @@ Note: times are in CST
 
 ### Week of March 15th
 
-- Monday:
-    - 5:00pm: Beginner Lab 6
-    - 6:00pm: Intermediate Lab 3 (Theory)
+###### Spring Break 
+:tada: :tada: :tada:
 
 
 ### Week of March 22nd
@@ -84,6 +86,9 @@ Note: times are in CST
 - Monday:
     - 5:00pm: Beginner Lab 7
     - 6:00pm: Intermediate Lab 3 (Implementation)
+    
+- Wednesday:
+    - 6:30pm: Paper Discussion
 
 
 ### Week of March 29th
@@ -112,4 +117,7 @@ Note: times are in CST
 - Monday:
     - 5:00pm: Beginner Lab 11
     - 6:00pm: Intermediate Lab 5 (Implementation)
+
+- Wednesday:
+    - 6:30pm: Paper Discussion
 
